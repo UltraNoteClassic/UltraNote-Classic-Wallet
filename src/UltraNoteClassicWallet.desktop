@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=UltraNote Classic Wallet
+Comment=UltraNote Classic Wallet
+Exec=UltraNoteClassicWallet
+Terminal=false
+Type=Application
+Icon=UltraNoteClassic
+MimeType=x-scheme-handler/UltraNoteClassicWallet;
+Categories=Office;Finance;
